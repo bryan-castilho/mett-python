@@ -1,1 +1,1 @@
-# mett-python
+# meet-python
